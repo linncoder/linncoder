@@ -7,6 +7,8 @@
 Building reliable payment and banking systems that move money across borders — fast, safe, and boring in the best way.
 
 [![GitHub](https://img.shields.io/badge/GitHub-linncoder-181717?style=flat&logo=github&logoColor=white)](https://github.com/linncoder)
+[![Email](https://img.shields.io/badge/Email-vanlinhb.303%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vanlinhb.303@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-linhbui303-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linhbui303/)
 [![Location](https://img.shields.io/badge/Based%20in-Da%20Nang%2C%20Vietnam-DA251D?style=flat&logo=googlemaps&logoColor=white)](https://github.com/linncoder)
 
 </div>
