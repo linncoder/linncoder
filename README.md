@@ -73,6 +73,6 @@ Day-to-day I work across **payment**, **banking** and **finance** — designing 
 
 <div align="center">
 
-*Based in Da Nang 🇻🇳 · Moving money, one API at a time 💸*
+*Based in Da Nang 🇻🇳 · Commit, push, ship 🚀*
 
 </div>
